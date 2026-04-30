@@ -1,5 +1,3 @@
-/* /blocks/teaser/teaser.js */
-
 /**
  * Bock options are applied as classes to the block's DOM
  * element along side the `block` and `<block-name>` classes.
